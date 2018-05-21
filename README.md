@@ -26,8 +26,11 @@ Ci siamo spartiti i compiti nel ruolo indicato, ognuno ha costruito la propria p
 
 
 ### Installazione
-
-Come da richiesta è stato creato il file di setup  presente sulla repository principale.
+Clonare il seguente repository:
+```sh
+$ git clone https://github.com/faggioPSDK/homework2.git
+```
+Come da richiesta è stato creato il file di setup  presente sulla repository principale.<br>
 Per lanciarlo eseguire il comando
 ```sh
 $ ./setup.sh
@@ -50,7 +53,7 @@ Per mappare le parti di corridoio abbiamo utilizzato turtlebot3_teleop, ovviamen
 $ roslaunch turtlebot3_slam turtlebot3_slam.launch
 $ rosrun rviz rviz -d `rospack find turtlebot3_slam`rviz/turtlebot3_slam.rviz
 $ roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch
-$ rosrun map_server map_saver -f ~/mappa_giardino
+$ rosrun map_server map_saver -f ~/homework2/map/mappa_giardino
 ```
 Matteo Mainenti <br>
 ![alt text](media/mappacv1sx.png "mappa piano")<br>
@@ -69,5 +72,7 @@ $ rosrun rviz rviz -d `rospack find turtlebot3_navigation`/rviz/turtlebot3_nav.r
 Video del progetto  risultante, contenente tutte e tre le parti, sottostante
 
 ### Filmato
-[![video](inserisci link qua)
+https://www.youtube.com/watch?v=Hfh2NWvyxKU&feature=youtu.be
 
+Info <b>Licenza</b>: <br>
+[View License](https://github.com/snukneLeo/homework2/blob/master/LICENSE)
