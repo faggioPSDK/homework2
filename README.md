@@ -26,12 +26,12 @@ Ci siamo spartiti i compiti nel ruolo indicato, ognuno ha costruito la propria p
 
 
 ### Installazione
-Clonare il seguente repository:
+Clonare il seguente repository Master(SnukneLeo contenente il risultato dei 3 lavori):
 ```sh
-$ git clone https://github.com/faggioPSDK/homework2.git
+$ git clone https://github.com/snukneLeo/homework2
 ```
 Come da richiesta è stato creato il file di setup  presente sulla repository principale.<br>
-Per lanciarlo eseguire il comando
+Per lanciarlo posizionarsi nella directory homework2 ed eseguire il comando:
 ```sh
 $ ./setup.sh
 ```
@@ -75,4 +75,4 @@ Video del progetto  risultante, contenente tutte e tre le parti, sottostante
 https://www.youtube.com/watch?v=Hfh2NWvyxKU&feature=youtu.be
 
 Info <b>Licenza</b>: <br>
-[View License](https://github.com/snukneLeo/homework2/blob/master/LICENSE)
+[View License](https://github.com/faggioPSDK/homework2/blob/master/LICENSE)
