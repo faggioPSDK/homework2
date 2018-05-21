@@ -1,5 +1,3 @@
-# homework2
-# homework2 #
 ##### Homework 2 - Laboratorio ciberfisico #####
 
 ### Descrizione
